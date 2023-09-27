@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:ed9d0b,100:f94001&&height=200&section=header&text=Hi!%20I'm%20Yeji%20🌹&fontAlignY=50&fontSize=50&animation=fadeIn&fontColor=ffffff)
 
 
-<h2 align="center">📚 Tech Stack 📚</h2>
-<h4 align="center">Platforms & Languages</h4>
-<p align="center">
+<h3 align="center" style="color: black;" >📚 Tech Stack 📚</h3>
+<h4 align="center" style="color: black;">Platforms & Languages</h4>
+<p align="center" >
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
   <br>  
@@ -14,14 +14,16 @@
   <br>  
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp
 
-<h4 align="center">Tools</h4>
+<h4 align="center" style="color: black;">Tools</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp
 
 
-<h5 align="center">Blog : https://jieeeeez.tistory.com/</h5>
+<h5 align="center" style="color: black;">Blog : https://jieeeeez.tistory.com/</h5>
 
+<br>
+<br>
 
 
 <div align="center">
