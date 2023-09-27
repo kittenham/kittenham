@@ -1,7 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:ed9d0b,100:f94001&&height=200&section=header&text=Hi!%20I'm%20Yeji%20🌹&fontAlignY=50&fontSize=50&animation=fadeIn&fontColor=ffffff)
 
+
 <h3 align="center">📚 Tech Stack 📚</h3>
-<h6 align="center">Platforms & Languages</h6>
+<h5 align="center">Platforms & Languages</h5>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
@@ -13,15 +14,19 @@
   <br>  
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp
 
-<h6 align="center">Tools</h6>
+<h5 align="center">Tools</h5>
 <p align="center">
   <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp
 
 
+<h5 align="center">Blog : https://jieeeeez.tistory.com/</h5>
 
 
+
+<div align="center">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kittenham&show_icons=true&theme=vue)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kittenham&layout=compact&theme=buefy)
 
+</div>
