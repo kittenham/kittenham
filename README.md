@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp
 
 
-<h5 align="center" style="color: black;">Blog : https://jieeeeez.tistory.com/</h5>
+<p align="center" style="color: black;">Blog : https://jieeeeez.tistory.com/</p>
 
 <br>
 <br>
